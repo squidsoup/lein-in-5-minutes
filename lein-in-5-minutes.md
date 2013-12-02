@@ -31,6 +31,8 @@
 
 ## Lein provides a consistent interface for project and build management
 ![](images/lein.jpeg)
+*"Leiningen is an adapter between the CLI and Clojure"*
+-Phil Hagelberg
 
 # 1. Project templating
 
